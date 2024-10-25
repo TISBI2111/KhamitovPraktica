@@ -1,0 +1,41 @@
+﻿<Window x:Class="WpfAppFilter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppFilter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" 
+        Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Border BorderBrush="#943535"
+                    BorderThickness="2">
+                <TextBlock Text="Поиск"
+                           Background="#cf7474"/>
+            </Border>
+            <TextBox x:Name="TBSearch"
+                     Width="200"
+                     TextChanged="TBSearch_TextChanged"/>
+            <Border Width="48"
+                    BorderBrush="#943535"
+                    BorderThickness="2">
+                <TextBlock Text="Атрибут"
+                           Background="#cf7474"/>
+            </Border>
+            <ComboBox   x:Name="CBatributs"
+                        Width="200"
+                        DisplayMemberPath="Atribut"
+                        SelectionChanged="CBatributs_SelectionChanged"/>
+            <Button x:Name="BClean" Content="Очистить" Click="BClean_Click"
+        </StackPanel>
+        <DataGrid x:Name="DGPers"
+                  IsReadOnly="True"
+                  Grid.Row="1">
+        </DataGrid>
+    </Grid>
+</Window>

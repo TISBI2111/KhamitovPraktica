@@ -1,0 +1,15 @@
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\bin\Debug\WpfAppFilter.exe.config
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\bin\Debug\WpfAppFilter.exe
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\bin\Debug\WpfAppFilter.pdb
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.csproj.AssemblyReference.cache
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\MainWindow.g.cs
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\App.g.cs
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter_MarkupCompile.cache
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter_MarkupCompile.lref
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\MainWindow.baml
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.g.resources
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.Properties.Resources.resources
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.csproj.GenerateResource.cache
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.csproj.CoreCompileInputs.cache
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.exe
+C:\Проекты C#\WpfAppFilter\WpfAppFilter\obj\Debug\WpfAppFilter.pdb
